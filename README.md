@@ -1,4 +1,3 @@
-# -123
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -288,7 +287,7 @@
         
         <div class="message-section" id="messageSection">
             <div class="message-content">
-                <h1>🎉 生日快乐！ 🎉</h1>
+                <h1>🎉 生日快乐呀！ 🎉</h1>
                 
                 <div class="birthday-cake">
                     <div class="flame"></div>
@@ -297,7 +296,7 @@
                     <div class="cake"></div>
                 </div>
                 
-                <p>亲爱的朋友，</p>
+                <p>亲爱的！</p>
                 <p>在这特别的日子里，愿你被幸福和快乐包围！</p>
                 <p>愿你的每一天都如阳光般灿烂，</p>
                 <p>愿你的每个梦想都如星辰般闪耀！</p>
