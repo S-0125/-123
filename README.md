@@ -435,7 +435,7 @@
     <a href="https://m.v.qq.com/x/m/play?cid=mzc00200xxpsogl&vid=n4102bvcgew" target="myPage">开始</a>
      <iframe
      name="myPage"
-     width="600px"
+     width="80px"
      height="300px"
      style="margin: 0 ;display:block;"></iframe>
 </body>
