@@ -296,12 +296,12 @@
                     <div class="cake"></div>
                 </div>
                 
-                <p>亲爱的！</p>
-                <p>在这特别的日子里，愿你被幸福和快乐包围！</p>
-                <p>愿你的每一天都如阳光般灿烂，</p>
-                <p>愿你的每个梦想都如星辰般闪耀！</p>
+                <p>好好做奶茶！</p>
+                <p>注意看备注是否要去冰！</p>
+                <p>去冰不能用量杯，</p>
+                <p>外卖打包记得放吸管！</p>
                 <p>新的一岁，新的开始，</p>
-                <p>愿所有的美好都如期而至！</p>
+                <p>工作时间少抽烟！</p>
                 
                 <div class="birthday-wish">
                     <p>🎈 永远年轻，永远热泪盈眶 🎈</p>
@@ -322,7 +322,7 @@
             const errorMessage = document.getElementById('errorMessage');
             
             // 正确的密码 - 这里设置为20231126（可以根据需要修改）
-            const correctPassword = '20070209';
+            const correctPassword = '19981117';
             
             submitBtn.addEventListener('click', function() {
                 const enteredPassword = passwordInput.value.trim();
