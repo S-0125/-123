@@ -421,7 +421,22 @@
             }
         });
     </script>
-    <iframe src="https://m.v.qq.com/x/m/play?cid=mzc00200xxpsogl&vid=n4102bvcgew"
-    width="800px"height="450px"frameborder="0" allowfullscreen></iframe>
+   
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://m.v.qq.com/x/m/play?cid=mzc00200xxpsogl&vid=n4102bvcgew" target="myPage">开始</a>
+     <iframe
+     name="myPage"
+     width="600px"
+     height="300px"
+     style="margin: 0 ;display:block;"></iframe>
 </body>
 </html>
